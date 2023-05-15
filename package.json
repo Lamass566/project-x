@@ -4,11 +4,19 @@
   "description": "Миша Сысоев FE-19 ",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node app.js"
   },
   "author": "Misha",
   "license": "ISC",
   "devDependencies": {
-    "gulp": "^4.0.2"
+    "browser-sync": "^2.29.1",
+    "gulp": "^4.0.2",
+    "gulp-eslint": "^6.0.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.0-alpha3",
+    "moment": "^2.29.4",
+    "Mygit" : "https://github.com/Lamass566/project-x.git"
   }
 }
