@@ -1,0 +1,11 @@
+{
+  "name": "project-x",
+  "version": "1.0.0",
+  "description": "Миша Сысоев FE-19 ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Misha",
+  "license": "ISC"
+}
